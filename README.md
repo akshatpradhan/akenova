@@ -2,7 +2,7 @@
 
 website for http://akenova.com
 
-![Screenshot](https://raw.github.com/akshatpradhan/parcel/master/akenova.png)
+![Screenshot](https://raw.github.com/akshatpradhan/akenova/master/akenova.png)
 
 #### License ####
 
