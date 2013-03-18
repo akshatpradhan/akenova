@@ -1,6 +1,6 @@
 ### akenova.com ###
 
-website for http://akenova.com
+http://akenova.com
 
 ![Screenshot](https://raw.github.com/akshatpradhan/akenova/master/akenova.png)
 
